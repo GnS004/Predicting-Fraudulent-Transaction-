@@ -17,6 +17,8 @@ The fraudulent behavior in this dataset specifically involves agents taking cont
 
 ## Dataset Information
 
+### DATASET Link: https://drive.google.com/file/d/1YNBydtFFPtJUPCwyiz2q9JWEy1MVDIJR/view?usp=sharing
+
 ### Dataset Size
 - **Format**: CSV
 - **Rows**: 6,362,620 transactions
@@ -143,5 +145,12 @@ fraud-detection-project/
 └── requirements.txt
 ```
 ---
+## 🔗 Connect With Me
+
+Feel free to reach out for any questions or collaboration opportunities!
+
+## 📄 License
+
+This project is available for educational and portfolio purposes.
 
 **Note**: This is a simulated dataset for educational/assessment purposes. The patterns and behaviors may not fully represent real-world fraud scenarios.
